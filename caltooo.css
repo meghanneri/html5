@@ -1,0 +1,30 @@
+
+body{
+    max-width:290px;
+    margin: auto;
+    margin-top: 240px;
+   
+}
+
+form{
+	width: 300px;
+}
+
+div{
+	float:left;
+	margin-bottom: 5px;
+}
+
+div input{
+	width: 249px;
+	height: 25px;
+	margin-right: 5px;
+    text-align: right;
+    cursor: default;
+}
+
+input{
+	width: 60px;
+	height: 30px;
+	text-align: center;
+}
